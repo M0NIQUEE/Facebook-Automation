@@ -1,6 +1,6 @@
 Facebook Registration Automation with Selenium
 
-Description: This is a test automatoin script using C#, Selenium Web Driver and NUnit to automatically
+Description: This is a test automation script using C#, Selenium Web Driver and NUnit to automatically
 input credentials in the register page of Facebook. It interacts with UI elements such as buttons, input fields,
 and dropdown menus using test data. **Note that this does not register for an account on Facebook since we are
 using dummy data**
